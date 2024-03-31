@@ -1,0 +1,9 @@
+<RCC>
+    <!--cdcdcd-->
+
+    <qresource prefix="/">
+        <file>res/icon/navigation/icon_login.png</file>
+        <file>res/icon/navigation/icon_right.png</file>
+        <file>res/icon/navigation/icon_qr_code_tip.png</file>
+    </qresource>
+</RCC>
